@@ -11,4 +11,4 @@ FUNCIONALIDADES:
 - Botón interactivo que muestra un mensaje
 
 AUTOR:
-Britanny G
+Britanny G.
