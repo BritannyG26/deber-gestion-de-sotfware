@@ -1,6 +1,5 @@
 PROYECTO: Mi Página Web
 
-DESCRIPCIÓN:
 Este proyecto consiste en una página web básica desarrollada con HTML, CSS y JavaScript.
 Su objetivo es demostrar la estructura de un sitio web organizado en diferentes carpetas.
 
