@@ -1,0 +1,14 @@
+PROYECTO: Mi Página Web
+
+DESCRIPCIÓN:
+Este proyecto consiste en una página web básica desarrollada con HTML, CSS y JavaScript.
+Su objetivo es demostrar la estructura de un sitio web organizado en diferentes carpetas.
+
+
+FUNCIONALIDADES:
+- Visualización de contenido en pantalla
+- Diseño simple con estilos CSS
+- Botón interactivo que muestra un mensaje
+
+AUTOR:
+Britanny G
